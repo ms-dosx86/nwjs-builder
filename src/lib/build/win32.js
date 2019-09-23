@@ -13,7 +13,7 @@ const temp = require('temp').track();
 const glob = require('glob');
 
 const rcedit = require('rcedit');
-const resourceHacker = require('node-resourcehacker');
+const resourceHacker = require('@lorki97/node-resourcehacker');
 
 const Flow = require('node-async-flow');
 
