@@ -1,5 +1,5 @@
 {
-  "name": "@ms-dosx86/nwjs-builder",
+  "name": "@saritasa/nwjs-builder",
   "version": "1.14.0",
   "description": "",
   "main": "./lib/index.js",
