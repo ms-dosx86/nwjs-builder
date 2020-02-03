@@ -164,7 +164,7 @@ const NwBuilderBuild = (path, options, callback) => {
 
         }
 
-        callback(null);
+        callback(null, buildDir);
 
     }.bind(context));
 
